@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Audio Visualizer\Assets\Scripts\CubeBehavior.cs">
+    <Files>
+      <File FileName="..\Audio Visualizer\Assets\FalseIdolCameraBehavior.cs" Line="1" Column="1" />
+      <File FileName="..\Audio Visualizer\Assets\Scripts\CubeBehavior.cs" Line="60" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
